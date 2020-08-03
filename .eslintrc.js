@@ -28,6 +28,7 @@ module.exports = {
     'no-param-reassign': 'off',
     'react/forbid-prop-types': 'off',
     'consistent-return': 'off',
+    'no-plusplus': 'off',
     camelcase: 'off',
   },
 };

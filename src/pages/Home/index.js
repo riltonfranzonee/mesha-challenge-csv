@@ -55,7 +55,7 @@ export default function Home() {
           <Table
             columns={columns}
             dataSource={items}
-            pagination={{ pageSize: 8 }}
+            pagination={{ pageSize: 6 }}
             locale={{ emptyText: EmptyMessage }}
           />
         </ItemsContainer>
